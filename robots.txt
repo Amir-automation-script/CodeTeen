@@ -1,0 +1,11 @@
+User-agent: *
+
+Allow: /
+
+Disallow: /admin/
+Disallow: /private/
+Disallow: /api/
+Disallow: /test/
+Disallow: /tmp/
+
+Sitemap: https://codeteen.ir/sitemap.xml
